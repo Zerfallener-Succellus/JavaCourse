@@ -25,6 +25,13 @@ public class Main {
 
             int busTickets = passageiros;
             System.out.println(busTickets);
+
+            //sempre preferir int, a não ser que seja nescessario um range maior
+            // do que a int pode prover
+
+            busTickets += 4;
+            System.out.println(busTickets);
+
         }
 
 
