@@ -22,6 +22,9 @@ public class Main {
 
             int passageiros = 5;
             System.out.println(passageiros);
+
+            int busTickets = passageiros;
+            System.out.println(busTickets);
         }
 
 
