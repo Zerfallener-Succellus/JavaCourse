@@ -7,5 +7,7 @@ public class Strings {
         String winner = "Spain";
 
         String announcement = "The winner of the world cup of "+year+" is "+winner;
+
+        System.out.println(announcement);
     }
 }

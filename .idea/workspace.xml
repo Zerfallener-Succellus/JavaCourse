@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="757fe6d9-99ef-4403-ab32-e81b1dc984d6" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/variables/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/variables/Grades.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/ago.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/variables/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/variables/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/variables/Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/variables/Strings.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,11 +24,11 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
   }
-}]]></component>
+}</component>
   <component name="GithubPullRequestsUISettings">
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
@@ -95,6 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682531245665</updated>
       <workItem from="1682531247393" duration="2842000" />
+      <workItem from="1682613699571" duration="647000" />
     </task>
     <task id="LOCAL-00001" summary="teste">
       <created>1682534639173</created>
