@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="757fe6d9-99ef-4403-ab32-e81b1dc984d6" name="Changes" comment="teste" />
+    <list default="true" id="757fe6d9-99ef-4403-ab32-e81b1dc984d6" name="Changes" comment="teste">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/variables/WholeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -90,7 +93,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682531245665</updated>
       <workItem from="1682531247393" duration="2842000" />
-      <workItem from="1682613699571" duration="983000" />
+      <workItem from="1682613699571" duration="1339000" />
     </task>
     <task id="LOCAL-00001" summary="teste">
       <created>1682534639173</created>
