@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="757fe6d9-99ef-4403-ab32-e81b1dc984d6" name="Changes" comment="teste">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/variables/Survey.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/variables/Debugging.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/variables/Decimals.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/variables/Decimals.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -71,7 +70,20 @@
       <recent name="C:\Users\Pedro\CursoJava\src\main\java\org\example\variables" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Survey">
+  <component name="RunManager" selected="Application.Debugging">
+    <configuration name="Debugging" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.example.variables.Debugging" />
+      <module name="CursoJava" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.example.variables.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.example.variables.Main" />
       <module name="CursoJava" />
@@ -100,6 +112,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Debugging" />
         <item itemvalue="Application.Survey" />
         <item itemvalue="Application.Main" />
       </list>
@@ -114,7 +127,7 @@
       <option name="presentableId" value="Default" />
       <updated>1682531245665</updated>
       <workItem from="1682531247393" duration="2842000" />
-      <workItem from="1682613699571" duration="3239000" />
+      <workItem from="1682613699571" duration="4802000" />
     </task>
     <task id="LOCAL-00001" summary="teste">
       <created>1682534639173</created>
@@ -143,5 +156,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="teste" />
     <option name="LAST_COMMIT_MESSAGE" value="teste" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/CursoJava$Debugging.ic" NAME="Debugging Coverage Results" MODIFIED="1682618026391" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>org.example.variables.*</FILTER>
+    </SUITE>
   </component>
 </project>
